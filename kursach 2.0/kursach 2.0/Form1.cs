@@ -26,7 +26,7 @@ namespace kursach_2._0
             f.setRoot(false);
             f.Hide();
         }
-        // add fileasdasdasd
+        // add fileasdasdasdsdfsdfsdfafd
         private void LoginBTN_Click(object sender, EventArgs e)
         {
             if (LoginTB.Text != "" || PasswordTB.Text != "")
