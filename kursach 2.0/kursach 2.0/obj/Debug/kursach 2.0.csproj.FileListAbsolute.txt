@@ -1,0 +1,16 @@
+D:\kursach 2.0\kursach 2.0\bin\Debug\kursach 2.0.exe.config
+D:\kursach 2.0\kursach 2.0\bin\Debug\kursach 2.0.exe
+D:\kursach 2.0\kursach 2.0\bin\Debug\kursach 2.0.pdb
+D:\kursach 2.0\kursach 2.0\obj\Debug\kursach 2.0.csproj.AssemblyReference.cache
+D:\kursach 2.0\kursach 2.0\obj\Debug\kursach_2._0.LoginForm.resources
+D:\kursach 2.0\kursach 2.0\obj\Debug\kursach_2._0.Properties.Resources.resources
+D:\kursach 2.0\kursach 2.0\obj\Debug\kursach 2.0.csproj.GenerateResource.cache
+D:\kursach 2.0\kursach 2.0\obj\Debug\kursach 2.0.csproj.CoreCompileInputs.cache
+D:\kursach 2.0\kursach 2.0\obj\Debug\kursach 2.0.exe
+D:\kursach 2.0\kursach 2.0\obj\Debug\kursach 2.0.pdb
+D:\kursach 2.0\kursach 2.0\bin\Debug\MetroFramework.dll
+D:\kursach 2.0\kursach 2.0\bin\Debug\MetroFramework.Fonts.dll
+D:\kursach 2.0\kursach 2.0\obj\Debug\kursach 2.0.csproj.CopyComplete
+D:\kursach 2.0\kursach 2.0\bin\Debug\LoginDB.mdf
+D:\kursach 2.0\kursach 2.0\bin\Debug\LoginDB_log.ldf
+D:\kursach 2.0\kursach 2.0\obj\Debug\kursach_2._0.TeoryForm.resources
